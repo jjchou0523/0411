@@ -1,0 +1,14 @@
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\bin\Debug\猜數字.exe
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\bin\Debug\猜數字.pdb
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\bin\Debug\猜數字.xml
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\obj\x86\Debug\猜數字.exe
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\obj\x86\Debug\猜數字.xml
+H:\mybook\VB\VB2010\ch4\猜數字\猜數字\obj\x86\Debug\猜數字.pdb
+C:\Users\790\Desktop\猜數字\猜數字\猜數字\obj\x86\Debug\猜數字.exe
+C:\Users\790\Desktop\猜數字\猜數字\猜數字\obj\x86\Debug\猜數字.xml
+C:\Users\790\Desktop\猜數字\猜數字\猜數字\obj\x86\Debug\猜數字.pdb
