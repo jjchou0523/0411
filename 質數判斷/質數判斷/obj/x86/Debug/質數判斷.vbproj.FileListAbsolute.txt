@@ -9,3 +9,12 @@ H:\mybook\VB\VB2010\ch4\質數判斷\質數判斷\obj\x86\Debug\GenerateResource
 H:\mybook\VB\VB2010\ch4\質數判斷\質數判斷\obj\x86\Debug\質數判斷.exe
 H:\mybook\VB\VB2010\ch4\質數判斷\質數判斷\obj\x86\Debug\質數判斷.xml
 H:\mybook\VB\VB2010\ch4\質數判斷\質數判斷\obj\x86\Debug\質數判斷.pdb
+C:\Users\790\Desktop\0411\質數判斷\質數判斷\obj\x86\Debug\質數判斷.exe
+C:\Users\790\Desktop\0411\質數判斷\質數判斷\obj\x86\Debug\質數判斷.xml
+C:\Users\790\Desktop\0411\質數判斷\質數判斷\obj\x86\Debug\質數判斷.pdb
+C:\Users\790\Desktop\0411\質數判斷\質數判斷\bin\Debug\質數判斷.exe
+C:\Users\790\Desktop\0411\質數判斷\質數判斷\bin\Debug\質數判斷.pdb
+C:\Users\790\Desktop\0411\質數判斷\質數判斷\bin\Debug\質數判斷.xml
+C:\Users\790\Desktop\0411\質數判斷\質數判斷\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\790\Desktop\0411\質數判斷\質數判斷\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\790\Desktop\0411\質數判斷\質數判斷\obj\x86\Debug\質數判斷.vbproj.GenerateResource.Cache
